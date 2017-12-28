@@ -183,8 +183,8 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Projects\XeoraCube\v7\Extension\Xeora.Compiler\Xeora.Compiler.csproj">
-      <Project>{26e6b84a-3286-4558-8d3b-8b8f4cc8d1e0}</Project>
+    <ProjectReference Include="..\..\modules\src\Xeora.Compiler\Xeora.Compiler.csproj">
+      <Project>{2ce2a6ce-6fb2-4fe2-8ddf-b7b06e926924}</Project>
       <Name>Xeora.Compiler</Name>
     </ProjectReference>
   </ItemGroup>
