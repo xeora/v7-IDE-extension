@@ -1,0 +1,3 @@
+[submodule "modules"]
+	path = modules
+	url = https://xeora@github.com/xeora/v7-tools.git
